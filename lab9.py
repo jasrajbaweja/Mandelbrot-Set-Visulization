@@ -1,10 +1,3 @@
-###########################################################
-# Name: Jasraj Baweja
-# Pledge: I pledge my honor that I have abided by the Stevens Honor System. -Jasraj Baweja
-# Date Created: November 13, 2024
-# CS 115 Lab 9
-###########################################################
-
 from cs5png import *
 
 #Introduction to for Loops!
